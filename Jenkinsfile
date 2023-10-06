@@ -15,7 +15,7 @@ pipeline {
                           doGenerateSubmoduleConfigurations: false, 
                           extensions: [], 
                           submoduleCfg: [], 
-                          userRemoteConfigs: [[url: 'https://github.com/BhushanShete/Java-JavaFx-Swing-Projects-Desktop-Application-GUI-Software.git']]])
+                          userRemoteConfigs: [[url: 'https://github.com/BhushanShete/bhushanJAVA.git']]])
             }
         }
 
